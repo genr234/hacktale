@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+
+.seyuka {
+    font-family: "Sekuya", system-ui;
+}
+
+.nunito {
+    font-family: "Nunito", system-ui;
+}
+
+.lexend {
+    font-family: "Lexend", system-ui;
+}
+
+h1 {
+    font-family: "Lexend", system-ui;
+    font-size: 32px;
+}
