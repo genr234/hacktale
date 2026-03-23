@@ -1,42 +1,10 @@
-# sv
+# Hacktale
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Online platform for #hacktale (an Hack Club [YSWS](https://notes.deven.dev/posts/the-plan-for-hack-club-world-dominance#what-the-hell-is-a-you-ship-we-ship-ysws))
 
-## Creating a project
+## Built with 
+- Svelte & Sveltekit
+- Airtable
+- Tailwind CSS
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```sh
-# create a new project
-npx sv create my-app
-```
-
-To recreate this project with the same configuration:
-
-```sh
-# recreate this project
-bun x sv create --template minimal --types ts --add prettier eslint tailwindcss="plugins:none" --install bun hacktale
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```sh
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```sh
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+![Screenshot](https://flavortown.hackclub.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY4ODYsInB1ciI6ImJsb2JfaWQifX0=--97b72cbbcd15b620a56bd8c6a9ab77f6491fced5/Screenshot%202026-01-21%20alle%2000.43.18.png)
